@@ -1,6 +1,6 @@
 # -*- coding: utf-8 -*-
 
-from .provider import Provider
+from pynutrients.providers.provider import Provider
 
 
 class HealthDiet(Provider):
